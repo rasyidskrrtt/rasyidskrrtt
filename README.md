@@ -43,11 +43,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=insomnia" alt="Insomnia" height="40" />
-  <img src="https://skillicons.dev/icons?i=notepad++" alt="Notepad++" height="40" />
-  <img src="https://skillicons.dev/icons?i=rapidminer" alt="RapidMiner" height="40" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="40" />
-  <img src="https://skillicons.dev/icons?i=alibaba" alt="Alibaba Cloud" height="40" />
 </p>
 
 ---
