@@ -17,6 +17,7 @@
   <a href="https://www.instagram.com/rasyidiskndrr?igsh=MTFsYXA5NnlxNzh1Yg%3D%3D" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
   <a href="https://www.youtube.com/@rasyidiskndrr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40" style="width: 40px; height: auto;" /></a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" /></a>
+  <a href="https://open.spotify.com/user/31ym6oqzimqhxove2y2b4o3hzroy?si=87dd5bb6aefc46ac" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spotify" alt="Spotify" height="40" /></a>
   <a href="https://mail.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
 </p>
 
