@@ -28,12 +28,12 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
