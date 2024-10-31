@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=notepad++" alt="Notepad++" height="40" />
   <img src="https://skillicons.dev/icons?i=rapidminer" alt="RapidMiner" height="40" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Alibaba_Cloud_logo.svg/1280px-Alibaba_Cloud_logo.svg.png" alt="Alibaba Cloud" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibaba_Cloud_logo.svg/1280px-Alibaba_Cloud_logo.svg.png" alt="Alibaba Cloud" height="40" />
 </p>
 
 ---
