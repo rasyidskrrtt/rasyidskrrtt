@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋 I’m Rasyid Iskandar Prayogi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"Information Systems students who are passionate about exploring the world of frontend web development, actively learning and developing programming skills at Singaperbangsa University of Karawang</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rasyidskrrtt&theme=dracula&column=6&margin-w=10&margin-h=10" alt="rasyidskrrtt" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rasyidskrrtt&theme=dracula&column=8&margin-w=15&margin-h=15" alt="rasyidskrrtt" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en" alt="rasyidskrrtt" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt" alt="rasyidskrrtt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en&theme=radical" alt="rasyidskrrtt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt&theme=radical" alt="rasyidskrrtt" />
 </div>
