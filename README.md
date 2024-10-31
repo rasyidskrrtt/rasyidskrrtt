@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/rasyid-iskandar-prayogi-003a22304/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
   <a href="https://www.facebook.com/rasyidiskandar.prayogs?locale=id_ID" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40" /></a>
   <a href="https://www.instagram.com/rasyidiskndrr?igsh=MTFsYXA5NnlxNzh1Yg%3D%3D" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
-  <a href="https://www.youtube.com/@rasyidiskndrr" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" /></a>
-  <a href="mailto:yogi290617@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
+  <a href="https://www.youtube.com/@rasyidiskndrr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40" /></a>
+  <a href="https://mail.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
 </p>
 
 ---
