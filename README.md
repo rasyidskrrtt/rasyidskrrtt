@@ -24,8 +24,29 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,figma,git,html,java,js,mysql,nodejs,php,postgres,tailwind,mongodb,postman,insomnia,notepad++,rapidminer" alt="Languages and Tools" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=insomnia" alt="Insomnia" height="40" />
+  <img src="https://skillicons.dev/icons?i=notepad++" alt="Notepad++" height="40" />
+  <img src="https://skillicons.dev/icons?i=rapidminer" alt="RapidMiner" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="40" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40" />
+  <img src="https://skillicons.dev/icons?i=alibabacloud" alt="Alibaba Cloud" height="40" />
 </p>
 
 ---
