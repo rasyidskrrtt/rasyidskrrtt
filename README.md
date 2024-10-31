@@ -24,13 +24,15 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /> <!-- GitHub Icon Added -->
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
@@ -45,7 +47,6 @@
   <img src="https://skillicons.dev/icons?i=notepad++" alt="Notepad++" height="40" />
   <img src="https://skillicons.dev/icons?i=rapidminer" alt="RapidMiner" height="40" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="40" />
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40" />
   <img src="https://skillicons.dev/icons?i=alibabacloud" alt="Alibaba Cloud" height="40" />
 </p>
 
