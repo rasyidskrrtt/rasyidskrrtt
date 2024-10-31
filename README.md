@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I’m Rasyid Iskandar Prayogi</h1>
+<h1 align="center">✨Hi there! 👋 I’m Rasyid Iskandar Prayogi✨</h1>
 <h3 align="center"Information Systems students who are passionate about exploring the world of frontend web development, actively learning and developing programming skills at Singaperbangsa University of Karawang</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 📫 How to reach me: <a href="mailto:yogi290617@gmail.com">yogi290617@gmail.com</a>
+- <p align="left">📫 How to reach me: <a href="mailto:yogi290617@gmail.com">yogi290617@gmail.com</a></p>
 
 ---
 
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/rasyid-iskandar-prayogi-003a22304/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/rasyidiskandar.prayogs?locale=id_ID" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/rasyidiskndrr?igsh=MTFsYXA5NnlxNzh1Yg%3D%3D" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@rasyidiskndrr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
