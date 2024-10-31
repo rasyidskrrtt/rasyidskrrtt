@@ -1,5 +1,6 @@
 <h1 align="center">✨Hi there! 👋 I’m Rasyid Iskandar Prayogi✨</h1>
-<h3 align="center">Information Systems students who are passionate about exploring the world of frontend web development, actively learning and developing programming skills at Singaperbangsa University of Karawang</h3>
+<h3 align="center">Information Systems student interested in frontend web development, actively learning and honing programming skills at Singaperbangsa University, Karawang.
+</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
