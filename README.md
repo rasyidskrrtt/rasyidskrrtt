@@ -1,4 +1,4 @@
-<h1 align="center">✨Hi there! 👋 I’m Rasyid Iskandar Prayogi✨</h1>
+<h1 align="center">✨Hi there! 👋 I’m Rasyid Iskandar✨</h1>
 <h3 align="center">Information Systems student interested in frontend web development, actively learning and honing programming skills at Singaperbangsa University, Karawang.
 </h3>
 
