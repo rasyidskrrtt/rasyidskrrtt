@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/GVCyl9l.gif" alt="Violet Evergarden GIPHY" width="425" />
+  <img src="https://i.imgur.com/GVCyl9l.gif" alt="Violet Evergarden GIPHY" width="400" />
 </div>
 
 ---
