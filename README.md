@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C71D&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Rasyid+Iskandar+Prayogi;Welcome+to+my+GitHub+Profile!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C71D&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Rasyid+Iskandar+Prayogi;Welcome+to+my+GitHub+Profile!+✨;Auto+Memories+Doll" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -29,7 +29,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,html,css,figma,git,github,gitlab,java,js,mysql,nodejs,php,postgres,tailwind,mongodb,postman,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,html,css,figma,git,github,gitlab,java,js,mysql,nodejs,php,postgres,tailwind,mongodb,postman,vscode" height="70" />
 </p>
 
 ---
@@ -40,14 +40,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt&theme=radical" />
 </div>
-
----
-
-<h3 align="center">🟨 GitHub Contribution (Pacman Style)</h3>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rasyidskrrtt/rasyidskrrtt/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rasyidskrrtt/rasyidskrrtt/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rasyidskrrtt/rasyidskrrtt/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
