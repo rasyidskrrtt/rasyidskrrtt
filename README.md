@@ -4,17 +4,11 @@
   <h3 align="center">Information Systems student interested in frontend web development, actively learning and honing programming skills at Singaperbangsa University, Karawang.</h3>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/IJwKtwdAiLhLt8NNUN/giphy.gif" alt="Violet Evergarden GIPHY" width="500" />
-</div>
-  
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rasyidskrrtt&theme=dracula&column=8&margin-w=15&margin-h=15" alt="rasyidskrrtt" />
-  </a>
-</p>
+<div align="center">
+  <img src="[https://media.giphy.com/media/IJwKtwdAiLhLt8NNUN/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o2bGFwbXJremx5eHR3MHMza203cjZ3aXI3OHN6M282dXRycmpjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCF97eKqerLC3iRMiG/giphy.gif)" alt="Violet Evergarden GIPHY" width="500" />
+</div>
 
 ---
 
@@ -27,6 +21,14 @@
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" /></a>
   <a href="https://open.spotify.com/user/31ym6oqzimqhxove2y2b4o3hzroy?si=87dd5bb6aefc46ac" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" height="40" /></a>
   <a href="https://mail.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
+</p>
+  
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rasyidskrrtt&theme=dracula&column=8&margin-w=15&margin-h=15" alt="rasyidskrrtt" />
+  </a>
 </p>
 
 ---
