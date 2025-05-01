@@ -1,54 +1,66 @@
-<h1 align="center">🚀 Hey there, I'm <span style="color:#00ffff;">Rasyid Iskandar Prayogi</span> 👨‍💻</h1>
-<h3 align="center">🎓 Information Systems Student | 💻 Frontend Web Enthusiast | 🧠 Lifelong Learner</h3>
+<h1 align="center">✨Hi there! 👋 I’m Rasyid Iskandar Prayogi✨</h1>
+<h3 align="center">Information Systems student interested in frontend web development, actively learning and honing programming skills at Singaperbangsa University, Karawang.</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=rasyidskrrtt&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUyZmQ0NzYxM2M1MWM1ZTZjMTk1NGRkZTlmYjFiZjViYjZhZDFkYiZjdD1n/xUA7aZeLE2e0P7Znz2/giphy.gif" alt="Anime Coding" width="250" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/rasyid-iskandar-prayogi-823737347/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.instagram.com/rasyidiskndrr"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://www.youtube.com/@rasyidiskndrr"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
-  <a href="https://open.spotify.com/user/31ym6oqzimqhxove2y2b4o3hzroy"><img src="https://skillicons.dev/icons?i=spotify" height="40" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" alt="Anime Coding" width="250" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rasyidskrrtt&theme=dracula&column=8&margin-w=15&margin-h=15" alt="rasyidskrrtt" />
+  </a>
 </p>
 
 ---
 
-### 🧰 Languages & Tools
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cpp,c,bootstrap,tailwind,react,nodejs,mongodb,mysql,postgres,git,github,gitlab,figma,postman,vscode" />
+  <a href="https://www.linkedin.com/in/rasyid-iskandar-prayogi-823737347/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="https://www.facebook.com/rasyidiskandar.prayogs?locale=id_ID" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40" /></a>
+  <a href="https://www.instagram.com/rasyidiskndrr?igsh=MTFsYXA5NnlxNzh1Yg%3D%3D" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
+  <a href="https://www.youtube.com/@rasyidiskndrr" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40" style="width: 40px; height: auto;" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" /></a>
+  <a href="https://open.spotify.com/user/31ym6oqzimqhxove2y2b4o3hzroy?si=87dd5bb6aefc46ac" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify" height="40" /></a>
+  <a href="https://mail.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="40" /></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyidskrrtt&layout=compact&theme=radical" height="180" />
+<h3 align="center">Languages and Tools:</h3>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="40" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt&theme=radical" />
-</p>
+<h3 align="center">📊 GitHub Stats & Activity</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en&theme=radical" alt="rasyidskrrtt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt&theme=radical" alt="rasyidskrrtt" />
+</div>
 
 ---
 
-### 🌈 GitHub Activity Graph (Pacman Style)
+<h3 align="center">🟨 GitHub Activity Graph (Pacman Theme)</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyidskrrtt&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyidskrrtt&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
 </p>
