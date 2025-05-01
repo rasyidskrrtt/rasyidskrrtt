@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o2bGFwbXJremx5eHR3MHMza203cjZ3aXI3OHN6M282dXRycmpjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCF97eKqerLC3iRMiG/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o2bGFwbXJremx5eHR3MHMza203cjZ3aXI3OHN6M282dXRycmpjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCF97eKqerLC3iRMiG/giphy.gif" alt="Violet Evergarden GIPHY" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o2bGFwbXJremx5eHR3MHMza203cjZ3aXI3OHN6M282dXRycmpjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCF97eKqerLC3iRMiG/giphy.gif" alt="Violet Evergarden GIPHY" width="500" />
 </div>
 
 ---
