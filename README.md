@@ -1,6 +1,9 @@
 <h1 align="center">✨Hi there! 👋 I’m Rasyid Iskandar Prayogi✨</h1>
-<h3 align="center">Information Systems student interested in frontend web development, actively learning and honing programming skills at Singaperbangsa University, Karawang.
-</h3>
+<h3 align="center">Information Systems student interested in frontend web development, actively learning and honing programming skills at Singaperbangsa University, Karawang.</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" alt="Anime Coding" width="250" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -48,8 +51,16 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en&theme=radical" alt="rasyidskrrtt" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt&theme=radical" alt="rasyidskrrtt" />
 </div>
+
+---
+
+<h3 align="center">🟨 GitHub Activity Graph (Pacman Theme)</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyidskrrtt&theme=react-dark&area=true&hide_border=true" alt="activity graph" />
+</p>
