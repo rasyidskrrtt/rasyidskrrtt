@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C71D&center=true&vCenter=true&width=500&lines=Hi%20there!%20%F0%9F%91%8B;I'm%20Rasyid%20Iskandar%20Prayogi;Welcome%20to%20my%20GitHub%20Profile!%E2%9C%A8;Auto%20Memories%20Doll" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C71D&center=true&vCenter=true&width=500&lines=Hi%20there!%F0%9F%91%8B;I'm%20Rasyid%20Iskandar%20Prayogi;Welcome%20to%20my%20GitHub%20Profile!%E2%9C%A8;Auto%20Memories%20Doll" alt="Typing SVG" />
 
   <h3>Information Systems student interested in frontend web development,<br>
   actively learning and honing programming skills at Singaperbangsa University, Karawang.</h3>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/GVCyl9l.gif" alt="Violet Evergarden GIPHY" width="450" />
+  <img src="https://i.imgur.com/GVCyl9l.gif" alt="Violet Evergarden GIPHY" width="425" />
 </div>
 
 ---
