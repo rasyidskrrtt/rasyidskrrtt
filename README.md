@@ -1,10 +1,10 @@
 <h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 36px; text-transform: uppercase; color: #F7C71D; text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C71D&center=true&vCenter=true&width=500&lines= Hi+there!👋+I'm+Rasyid+Iskandar+Prayogi;Welcome+to+my+GitHub+Profile!✨;Auto+Memories+Doll" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C71D&center=true&vCenter=true&width=500&lines=Hi+there!👋+I'm+Rasyid+Iskandar+Prayogi;Welcome+to+my+GitHub+Profile!✨;Auto+Memories+Doll" alt="Typing SVG" />
 </h1>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
   <img src="https://github-profile-trophy.vercel.app/?username=rasyidskrrtt&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Trophies" width="300"/>
-  <img src="https://media.tenor.com/mkoytSqJuecAAAAd/windy-violet-evergarden-anime-cute.gif" alt="Violet Evergarden Windy" width="250" />
+  <img src="https://media.giphy.com/media/IJwKtwdAiLhLt8NNUN/giphy.gif" alt="Violet Evergarden GIPHY" width="250" />
 </div>
 
 ---
