@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C71D&center=true&vCenter=true&width=500&lines=Hi%20there!%20%F0%9F%91%8B;I'm%20Rasyid%20Iskandar%20Prayogi;Welcome%20to%20my%20GitHub%20Profile!%20%E2%9C%A8;Auto%20Memories%20Doll" alt="Typing SVG" />
 
@@ -6,10 +5,8 @@
   actively learning and honing programming skills at Singaperbangsa University, Karawang.</h3>
 </div>
 
-<hr>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/IJwKtwdAiLhLt8NNUN/giphy.gif" alt="Violet Evergarden GIPHY" width="320" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o2bGFwbXJremx5eHR3MHMza203cjZ3aXI3OHN6M282dXRycmpjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oCF97eKqerLC3iRMiG/giphy.gif" alt="Violet Evergarden GIPHY" width="500" />
 </div>
 
 ---
