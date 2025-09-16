@@ -60,7 +60,10 @@
 
 <h3 align="center">My Stat 4-3-4</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages Stats" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt&theme=radical" alt="GitHub Streak Stats" />
 </div>
+
