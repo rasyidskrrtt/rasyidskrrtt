@@ -58,34 +58,4 @@
 
 ---
 
-<h3 align="center">My Stat 4-3-4</h3>
-
-<p align="center">
-  <table align="center" cellpadding="10">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rasyidskrrtt&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="320" />
-        <br/>
-        <sub>Top languages — updated daily (cache 24h)</sub>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rasyidskrrtt&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="420" />
-        <br/>
-        <sub>GitHub overview — stars, commits, PRs (cache 24h)</sub>
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidskrrtt&theme=radical" alt="GitHub Streak Stats" width="320" />
-        <br/>
-        <sub>Contribution streak</sub>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center" style="padding-top:6px;">
-        <img src="https://img.shields.io/github/followers/rasyidskrrtt?label=Followers&style=flat-square" alt="Followers" />
-        <img src="https://img.shields.io/github/stars/rasyidskrrtt?label=Stars&style=flat-square" alt="Stars" />
-        <img src="https://img.shields.io/github/last-commit/rasyidskrrtt/your-repo-name?label=Last%20Commit&style=flat-square" alt="Last Commit" />
-        <br/><sub>Fallback badges (selalu cukup stabil)</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+<h3 align="center">My Stat 4-3-4</h3> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" /> </div>
