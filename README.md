@@ -58,12 +58,4 @@
 
 ---
 
-<h3 align="center">My Stat 4-3-4</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/rasyidskrrtt?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rasyidskrrtt?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/rasyidskrrtt?label=Commits&style=for-the-badge&color=green" alt="Commits" />
-  <img src="https://img.shields.io/badge/Public%20Repos-XX-blueviolet?style=for-the-badge" alt="Repos" />
-  <img src="https://img.shields.io/github/last-commit/rasyidskrrtt/rasyidskrrtt?label=Last%20Commit&style=for-the-badge&color=red" alt="Last Commit" />
-</div>
+<h3 align="center">My Stat 4-3-4</h3> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidskrrtt&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" /> <img src="https://github-readme-stats.vercel.app/api?username=rasyidskrrtt&show_icons=true&locale=en&theme=radical" alt="rasyidskrrtt" /> </div>
